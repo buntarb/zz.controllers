@@ -1,0 +1,32 @@
+# Root namespace
+NAMESPACE: 'zz.controllers'
+
+# Module paths
+PATH:
+
+  # Compiled files folder
+  BIN: 'bin'
+
+  # Source files folder
+  LIB: 'lib'
+
+  # JavaScript sources folder
+  SOURCES: 'sources'
+
+  # Messages files folder
+  MESSAGES: 'messages'
+
+  # Templates (.soy) files folder
+  TEMPLATES: 'templates'
+
+  # Resources (images/fonts) files folder
+  RESOURCES: 'resources'
+
+  # Stylesheets folder
+  STYLESHEETS: 'stylesheets'
+
+  # Stylesheets (.scss) sources files folder
+  SCSS: 'scss'
+
+  # Stylesheets (.gss) compiled files folder
+  CSS: '.css'
