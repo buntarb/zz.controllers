@@ -1,6 +1,6 @@
 {
 	"name": "zz.controllers",
-	"version": "20160904.0.0",
+	"version": "20160906.0.0",
 	"description": "Base controllers for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
