@@ -19,6 +19,7 @@
 	},
 	"dependencies": {
 
-	    "imazzine-developer-kit": ""
+	    "imazzine-developer-kit": "",
+		"zz.environment": ""
 	}
 }
