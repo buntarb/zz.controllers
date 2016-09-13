@@ -1,11 +1,16 @@
 {
 	"name": "zz.controllers",
-	"version": "20160503.0.0",
+	"version": "201600914.0.0",
 	"description": "Base controllers for imazzine-developer-lib.",
 	"author": {
 		"name": "Artem Lytvynov",
 		"email": "buntarb@gmail.com"
 	},
+	"contributors": [
+		"Artem Lytvynov <buntarb@gmail.com>",
+		"Alexander Popkov <popkov.aleksander@gmail.com>",
+		"Igor Zinchenko <zinychz@gmail.com>"
+	],
 	"license": "Apache-2.0",
     "homepage": "http://imazzine.com/idl/zz.controllers/",
 	"repository": {
