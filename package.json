@@ -21,6 +21,7 @@
 
 	    "imazzine-developer-kit": "",
 		"zz.environment": "",
-		"zz.events": ""
+		"zz.events": "",
+		"zz.views": ""
 	}
 }
